@@ -1,1 +1,5 @@
-this was earlier in test2. then stashed and moved to test1.::
+this was earlier in test2. then stashed and moved to test1.
+
+we are testing conflicts for the same file 
+
+whether the current text will be overridden by 'dummy data' from test1 branch:

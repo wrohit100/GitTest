@@ -1,2 +1,4 @@
 first line from feature2
 second line from feature2
+
+fourth line from master
